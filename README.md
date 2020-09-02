@@ -1,7 +1,13 @@
-### Hi there 👋
+# About
+PhD student in Computer Science at the University of York. 
 
-- 🔭 I’m currently working on developing the [gamba](https://github.com/gamba-dev/gamba) library, and finishing my PhD
-- 👯 I’m looking to collaborate on scientific research, specifically anything to do with gambling transaction analytics
-- 🤔 I’m looking for help with open source development funding, recruitment, and networking
-- 💬 Ask me about how to use [gamba](https://github.com/gamba-dev/gamba), and how to access cryptocurrency transaction data
-- 📫 How to reach me: [@ojscholten](https://twitter.com/ojscholten)
+**Research specialisation:** decentralised gambling applications & player transaction analytics.
+
+## Current Projects
+- Open Source Gambling Transaction Analytics via the [`gamba`](https://github.com/gamba-dev/gamba) library
+- Social Sequence Analysis via the [`pysan`](https://github.com/pysan-dev/pysan) library
+- DApp Development Fundamentals via the [`minstack`](https://github.com/ojscholten/minstack) project
+
+## Contact
+Get in touch through twitter [**@ojscholten**](https://twitter.com/ojscholten)
+
